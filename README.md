@@ -6,7 +6,7 @@ The paper can be read in: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=42
 All the data collected come from the the Kenneth R. French website: http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/index.html
 
 The codes are divided in:
-Calculation: calculate the portfolio for each in-sample.
-Out of Sample: verify performance of each portfolio for each out-of-sample.
-Statistics: calculate the statistics for each portfolio in each out-of-sample.
+- Calculation: calculate the portfolio for each in-sample.
+- Out of Sample: verify performance of each portfolio for each out-of-sample.
+- Statistics: calculate the statistics for each portfolio in each out-of-sample.
 
