@@ -1,4 +1,4 @@
-Fama-French Five Factor Dynamic Betas for Efficient Frontier: an Empirical Approach for Comparison
+# Fama-French Five Factor Dynamic Betas for Efficient Frontier: an Empirical Approach for Comparison
 The repository presents my code for my conclusion thesys in the Economics course of Ibmec Belo Horizonte.
 
 The paper can be read in: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4269284
